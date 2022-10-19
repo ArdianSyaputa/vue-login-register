@@ -12,5 +12,33 @@
       "role": "user",
       "id": 2
     }
+  ],
+  "jakartas": [
+    {
+      "kota": "Kota Administrasi Jakarta Utara",
+      "ukuran": "139,99 km²  ",
+      "jumlah": "6",
+      "iconkota": "Ali Maulana Hakim",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Lambang_Kota_Administrasi_Jakarta_Utara.png/1200px-Lambang_Kota_Administrasi_Jakarta_Utara.png",
+      "id": 1
+    },
+    {
+      "kota": "Daerah Khusus Ibukota Jakarta",
+      "ukuran": "664,01 km²  ",
+      "jumlah": "44",
+      "iconkota": "Anies Baswedand",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2022/01/23/langit-biru-di-kawasan-monas-yang-masih-tutup-untuk-umum-1_169.jpeg?w=1200",
+      "id": 2
+    }
+  ],
+  "balis": [
+    {
+      "kota": "Kota Administrasi Jakarta Utara",
+      "ukuran": "139,99 km²  ",
+      "jumlah": "6",
+      "iconkota": "Ali Maulana Hakim",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Lambang_Kota_Administrasi_Jakarta_Utara.png/1200px-Lambang_Kota_Administrasi_Jakarta_Utara.png",
+      "id": 1
+    }
   ]
 }

@@ -1,6 +1,8 @@
 import Login from "../components/Login.vue";
 import Register from "../components/Register.vue";
 import Home from "../View/Home.vue";
+import Produk from "../View/Produk.vue";
+import Detail from "../View/Detail.vue";
 import Vue from "vue";
 import Router from "vue-router";
 
@@ -20,6 +22,16 @@ const routes =[
     {
         path: "/home",
     component:Home
+},
+{
+    path: "/produk",
+    name: "ProdukPage",
+    component: Produk
+},
+{
+    path: "/detail",
+    name: "DetailPage",
+    component: Detail
 }
 ]
 // const router = createRouter({
